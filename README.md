@@ -1,6 +1,6 @@
 # VDOverlay
 
-An easy to use overlay to easily understand clock callouts for different VD maps.
+An easy to use overlay to easily learn and understand clock callouts for the different VD maps.
 
 #### Insert: Lock/Unlock map
 #### F9/F10: Swap between maps, F9 for previous and F10 for next
