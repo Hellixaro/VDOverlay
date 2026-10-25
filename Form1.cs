@@ -238,7 +238,7 @@ namespace ViolenceDistrictOverlay
 
         protected override void OnFormClosed(FormClosedEventArgs e)
         {
-            trayIcon.Visible = false; // Clean up tray icon on close
+            trayIcon.Visible = false;
             base.OnFormClosed(e);
         }
     }
